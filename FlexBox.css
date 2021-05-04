@@ -1,0 +1,17 @@
+h1{
+	font-family: cursive;
+	border-bottom: 3px solid #E3F97B;
+	border-right: 3px solid #E3F97B;
+	width: 370px;
+	text-align: center;
+}
+img{
+	width: 300px;
+	height: 400px;
+	margin: 10px;
+}
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	}
